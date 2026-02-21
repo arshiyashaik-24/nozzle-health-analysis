@@ -1,4 +1,4 @@
-# Automated Nozzle Health Analysis
+# Automated InkJet Nozzle Health Analysis
 
 ## Overview
 
